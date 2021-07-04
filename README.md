@@ -45,7 +45,16 @@ Correlation between variables is reviewed before preprocessing steps. Also, some
 
 
 ## Machine Learning Methods
+Until now, logistic regression is applied. Standard scaling is chosen upon some trials. 
+Here are test results for logistic regression method:
+- ACCURACY: 0.7727272727272727
+- PRECISION: 0.7083333333333334
+- RECALL: 0.6181818181818182
+- F1: 0.6601941747572815
+- AUC: 0.8741965105601469
 
+
+New ML models will be uploaded.
 
 
 
