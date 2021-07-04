@@ -31,7 +31,7 @@ You can achieve the public [dataset](https://archive.ics.uci.edu/ml/datasets/dia
 - Scaling
 - Regression Models (Logistic and Linear)
 
-###### Summary of feature engineering:
+### Summary of feature engineering:
 Correlation between variables is reviewed before preprocessing steps. Also, some literature research done and expert (a doctor) opinion is received from for better observations.
 
 
