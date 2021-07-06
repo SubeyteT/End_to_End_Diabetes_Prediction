@@ -21,7 +21,7 @@ Outcome: Class variable (0 if non-diabetic, 1 if diabetic)
 
 You can achieve the public [dataset](https://archive.ics.uci.edu/ml/datasets/diabetes).
 
-## Content
+## Process
 - Data load and 
 - Exploratory data analysis (includes graphs)
 - Feature engineering
